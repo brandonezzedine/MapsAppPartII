@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "349084307969",
+    "firebase_url": "https://mapsandui.firebaseio.com",
+    "project_id": "mapsandui",
+    "storage_bucket": "mapsandui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349084307969:android:a59e0965b314ab6c",
+        "android_client_info": {
+          "package_name": "com.example.brandonezz.assignment_maps_brandonezzedine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349084307969-6fb4if67s4cul2hf0f9je3aufm8b2pn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brandonezz.assignment_maps_brandonezzedine",
+            "certificate_hash": "86e12d2448f0e308af6c7fdc7ef2d1295a4fc69b"
+          }
+        },
+        {
+          "client_id": "349084307969-t8h3c5ufgpegbu4jnppdm2u2kpjlv31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0omrOI77pSuE7yP1WWtFg2NqMd-JszEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349084307969-t8h3c5ufgpegbu4jnppdm2u2kpjlv31e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349084307969:android:b625555706a5f358",
+        "android_client_info": {
+          "package_name": "com.example.brandonezz.assignmentmap2_brandonezzedine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349084307969-t8h3c5ufgpegbu4jnppdm2u2kpjlv31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0omrOI77pSuE7yP1WWtFg2NqMd-JszEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
